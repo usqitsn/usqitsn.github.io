@@ -1,6 +1,6 @@
-Temporary landing page for newly formed USQ IT Students' Network. We are not yet accepting membership. Check back frequently for updates.
+Temporary landing page for newly-formed USQ IT Students' Network.
 
-Community forums: <a href="https://community.usqitsn.org">community.usqitsn.org</a>
+Head to the community forums to sign up for an account and become a member: <a href="https://community.usqitsn.org">community.usqitsn.org</a>
 
 Enquiries: <a href="mailto:enquiries@usqitsn.org">enquiries@usqitsn.org</a>
 
