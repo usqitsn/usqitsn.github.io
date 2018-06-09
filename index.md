@@ -1,4 +1,4 @@
-<h1>USQ IT Students' Network</h1>
+
 <p></p>
 <p><em>Temporary landing page for newly-formed USQ IT Students' Network.</em></p>
 <p></p>
