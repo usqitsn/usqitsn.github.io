@@ -5,4 +5,5 @@
 <p>Membership is open to anyone. By joining the community forums you become a member of the USQITSN.</p>
 <p></p>
 <p>General enquiries: <a href="mailto:enquiries@usqitsn.org">enquiries@usqitsn.org</a></p>
-
+<br>
+<p>Follow or tweet us: <a href="http://twitter.com/usqitsn">@usqitsn</a></p>
