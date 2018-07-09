@@ -7,3 +7,5 @@
 <p>General enquiries: <a href="mailto:enquiries@usqitsn.org">enquiries@usqitsn.org</a></p>
 <p></p>
 <p>Follow or tweet us: <a href="http://twitter.com/usqitsn">@usqitsn</a></p>
+<p></p>
+<p><em>What began as a Facebook group of IT students developed into a USQ-affiliated student "club" that was founded in early 2018. In addition to bringing the wider community of USQ IT students together, we place a high priority on enhancing industry-readiness and providing professional development opportunities to students as we are able.</em></p>
