@@ -2,10 +2,10 @@
 <p></p>
 <p>Hi, there! Thanks for checking out USQITSN. We exist to create and encourage <strong>community</strong>, <strong>connections</strong> and <strong>collaboration</strong> amongst IT students at USQ and the broader IT community. Hoping we can all help each other explore everything IT while having some fun along the way!</p>
 <p></p>
-<p>Membership is open to anyone. By joining the community forums you become a member of the USQITSN.</p>
+<p>Membership is open to anyone. By joining the <a href="http://community.usqitsn.org">community forums</a>  you become a member of the USQITSN.</p>
 <p></p>
 <p>General enquiries: <a href="mailto:enquiries@usqitsn.org">enquiries@usqitsn.org</a></p>
 <p></p>
 <p>Follow or tweet us: <a href="http://twitter.com/usqitsn">@usqitsn</a></p>
 <p></p>
-<p><em>What began as a Facebook group of IT students developed into a USQ-affiliated student "club" that was founded in early 2018. In addition to bringing the wider community of USQ IT students together, we place a high priority on enhancing industry-readiness and providing professional development opportunities to students as we are able.</em></p>
+<p><em>What began as a <a href="https://www.facebook.com/groups/1103538546391897/">Facebook group</a> of IT students developed into a USQ-affiliated student "club" that was founded in early 2018. In addition to bringing the wider community of USQ IT students together, we place a high priority on enhancing industry-readiness and providing professional development opportunities to students as we are able.</em></p>
