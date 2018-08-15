@@ -2,7 +2,7 @@
 <p></p>
 <p>Hi, there! Thanks for checking out USQITSN. We exist to create and encourage <strong>community</strong>, <strong>connections</strong> and <strong>collaboration</strong> amongst IT students at USQ and the broader IT community. Hoping we can all help each other explore everything IT while having some fun along the way!</p>
 <p></p>
-<p>The primary community exists on the Facebook group linked above. Sign up there for more info and join the discussion!.</p>
+<p>The primary community exists on the Facebook group linked above. Sign up there for more info and join the discussion!</p>
 <p></p>
 <p>General enquiries: <a href="mailto:enquiries@usqitsn.org">enquiries@usqitsn.org</a></p>
 <p></p>
