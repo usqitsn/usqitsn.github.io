@@ -4,7 +4,7 @@
 <p></p>
 <p>The primary community exists on the Facebook group linked above. Sign up there for more info and join the discussion!</p>
 <p></p>
-<p>Register membership here: <a href="https://docs.google.com/forms/d/14ftOX15Y-ZrscekCSyTxes_fALGqXYFbK7BkVPZzB3U/edit">@Registration form</a></p>
+<p>Register membership here: <a href="https://docs.google.com/forms/d/14ftOX15Y-ZrscekCSyTxes_fALGqXYFbK7BkVPZzB3U/edit">Registration form</a></p>
 <p></p>
 <p>General enquiries: <a href="mailto:enquiries@usqitsn.org">enquiries@usqitsn.org</a></p>
 <p></p>
